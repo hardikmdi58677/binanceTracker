@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/binanceTracker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/binanceTracker/static/js/main.6f074090.chunk.js",
+    "main.js.map": "/binanceTracker/static/js/main.6f074090.chunk.js.map",
+    "runtime-main.js": "/binanceTracker/static/js/runtime-main.fba0ad55.js",
+    "runtime-main.js.map": "/binanceTracker/static/js/runtime-main.fba0ad55.js.map",
+    "static/css/2.4ee9481e.chunk.css": "/binanceTracker/static/css/2.4ee9481e.chunk.css",
+    "static/js/2.7a1fa26b.chunk.js": "/binanceTracker/static/js/2.7a1fa26b.chunk.js",
+    "static/js/2.7a1fa26b.chunk.js.map": "/binanceTracker/static/js/2.7a1fa26b.chunk.js.map",
+    "index.html": "/binanceTracker/index.html",
+    "precache-manifest.038b48a955ade731eb2c80b1be009628.js": "/binanceTracker/precache-manifest.038b48a955ade731eb2c80b1be009628.js",
+    "service-worker.js": "/binanceTracker/service-worker.js",
+    "static/css/2.4ee9481e.chunk.css.map": "/binanceTracker/static/css/2.4ee9481e.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/binanceTracker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7a1fa26b.chunk.js.LICENSE.txt": "/binanceTracker/static/js/2.7a1fa26b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/binanceTracker/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fba0ad55.js",
+    "static/css/2.4ee9481e.chunk.css",
+    "static/js/2.7a1fa26b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6f074090.chunk.js"
+  ]
+}
