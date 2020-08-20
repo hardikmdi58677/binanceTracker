@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/binanceTracker/static/css/main.5f361e03.chunk.css",
-    "main.js": "/binanceTracker/static/js/main.a4995432.chunk.js",
-    "main.js.map": "/binanceTracker/static/js/main.a4995432.chunk.js.map",
+    "main.js": "/binanceTracker/static/js/main.6f295c15.chunk.js",
+    "main.js.map": "/binanceTracker/static/js/main.6f295c15.chunk.js.map",
     "runtime-main.js": "/binanceTracker/static/js/runtime-main.fba0ad55.js",
     "runtime-main.js.map": "/binanceTracker/static/js/runtime-main.fba0ad55.js.map",
     "static/css/2.4ee9481e.chunk.css": "/binanceTracker/static/css/2.4ee9481e.chunk.css",
     "static/js/2.7a1fa26b.chunk.js": "/binanceTracker/static/js/2.7a1fa26b.chunk.js",
     "static/js/2.7a1fa26b.chunk.js.map": "/binanceTracker/static/js/2.7a1fa26b.chunk.js.map",
     "index.html": "/binanceTracker/index.html",
-    "precache-manifest.56355ec9d6d078b35fe5ba83fd129417.js": "/binanceTracker/precache-manifest.56355ec9d6d078b35fe5ba83fd129417.js",
+    "precache-manifest.8838213ca5248f9d26ba0631d851adb0.js": "/binanceTracker/precache-manifest.8838213ca5248f9d26ba0631d851adb0.js",
     "service-worker.js": "/binanceTracker/service-worker.js",
     "static/css/2.4ee9481e.chunk.css.map": "/binanceTracker/static/css/2.4ee9481e.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/binanceTracker/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.4ee9481e.chunk.css",
     "static/js/2.7a1fa26b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a4995432.chunk.js"
+    "static/js/main.6f295c15.chunk.js"
   ]
 }
