@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/binanceTracker/precache-manifest.1ff2e767062461bda028117655dfe0d0.js"
+  "/binanceTracker/precache-manifest.7fda6c26b34b0b42ca46729023a18991.js"
 );
 
 self.addEventListener('message', (event) => {
