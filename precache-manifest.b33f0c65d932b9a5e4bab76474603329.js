@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bec06365d306924b3764dc5e67bb668",
+    "revision": "86ed7e45d49901408793ce7563fc20e9",
     "url": "/binanceTracker/index.html"
   },
   {
-    "revision": "81fa7e4e87d2cc258225",
+    "revision": "07375d46dd140ddb4561",
     "url": "/binanceTracker/static/css/2.4ee9481e.chunk.css"
   },
   {
-    "revision": "f09d025bc4936ebe1bb4",
+    "revision": "38859b5283c71d897f24",
     "url": "/binanceTracker/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "81fa7e4e87d2cc258225",
-    "url": "/binanceTracker/static/js/2.7a1fa26b.chunk.js"
+    "revision": "07375d46dd140ddb4561",
+    "url": "/binanceTracker/static/js/2.33c6a11f.chunk.js"
   },
   {
-    "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/binanceTracker/static/js/2.7a1fa26b.chunk.js.LICENSE.txt"
+    "revision": "a5bb631f78d6ee3e15059a3c977c00f7",
+    "url": "/binanceTracker/static/js/2.33c6a11f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f09d025bc4936ebe1bb4",
-    "url": "/binanceTracker/static/js/main.3de8a40e.chunk.js"
+    "revision": "38859b5283c71d897f24",
+    "url": "/binanceTracker/static/js/main.db4f3730.chunk.js"
   },
   {
     "revision": "196e5546f8ed1c76330a",
